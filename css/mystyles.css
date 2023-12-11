@@ -7,3 +7,10 @@ h2{
 .darkcolor{
     background-color: blue !important; 
 }
+.super{ background-color: lightblue;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+;}
+.header{position: absolute;}
+.footer{position: fixed;}
+.toptext{position: absolute;}
+.list{position: absolute;}
