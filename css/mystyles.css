@@ -7,8 +7,9 @@ h2{
 .darkcolor{
     background-color: blue !important; 
 }
-.super{ background-color: lightblue;
+.super{ background-color: rgb(64, 186, 227);
 font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+color: black
 ;}
 .header{position: absolute;}
 .footer{position: fixed;}
