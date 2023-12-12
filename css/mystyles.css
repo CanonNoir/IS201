@@ -7,7 +7,7 @@ h2{
 .darkcolor{
     background-color: blue !important; 
 }
-.super{ background-image: url(https://i.pinimg.com/736x/a4/f6/7b/a4f67b57ec366b77754896df887ef068.jpg) ;
+.super{ background-image: url('https://i.pinimg.com/736x/a4/f6/7b/a4f67b57ec366b77754896df887ef068.jpg') ;
 font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 color: black
 ;}
