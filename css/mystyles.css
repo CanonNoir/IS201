@@ -12,7 +12,18 @@ h2{
 font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 color: black
 ;}
-.header{position: absolute;;}
-.footer{position: fixed;}
-.toptext{position: absolute;}
-.list{position: absolute;}
+.header{position: absolute;
+    background-color: aliceblue;
+}
+.footer{position: fixed;
+font-size: x-large;
+left: 0;
+bottom: 0;
+width: 100%;
+text-align: center;
+padding: 5px;
+background-color: aliceblue;}
+.toptext{position: absolute;
+text-align: center;}
+.list{position: absolute;
+font-size: xx-large;}
